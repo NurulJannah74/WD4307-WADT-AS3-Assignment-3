@@ -13,7 +13,7 @@
     <div class="card">
       <h1 style="font-weight: bold">Nurul Jannah Amal Insyirah</h1>
       <h2>Student</h2>
-      <p>Politeknik Brunei</p>
+      <p>Hello World</p>
     </div>
 
     <!-- Education Information -->
